@@ -7,6 +7,11 @@ This is the central hub for all projects created during this five-day creative b
 > 🎉 **Speak it. Build it. Ship it.**  
 > VibeSpace is not a hackathon, accelerator, or conference. It's a new kind of build sprint, where companies, students, and builders collide to turn sparks into working prototypes.
 
+Find all the relevant material here:
+- [The Path of Vibe Coding](https://docs.google.com/presentation/d/e/2PACX-1vTEZecboHM4f5UePdlh5cATBGBlZvYrwe6yKgVf1zVy-hX5U7MTExNI6VcovC44MbnP9sstjvfbJghp/pub?start=false&loop=false&delayms=3000) presentation
+- [Introduction to Vibe Coding](https://www.youtube.com/watch?v=n2XG8BEfjCI&list=PLWXOnn4W7PGDrJR6huD6ZSwRtIshyp5mq) playlist
+- [Project Ideas](https://www.youtube.com/watch?v=u9pjPM7r46Q) video
+
 ## 📌 How to Participate
 
 1. **Start a Discussion for Your Idea**
